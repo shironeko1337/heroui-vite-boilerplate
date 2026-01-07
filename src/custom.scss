@@ -1,0 +1,12 @@
+$color: purple;
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+.custom-button {
+  color: $color;
+  &:hover {
+    @apply bg-purple-600;
+  }
+}

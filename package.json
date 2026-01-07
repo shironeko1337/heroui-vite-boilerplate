@@ -1,0 +1,31 @@
+{
+  "name": "heroui-vite-web-app-boilerplate",
+  "private": true,
+  "version": "0.0.0",
+  "description": "A heroui vite web app boilerplate.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "heroui-vite-web-app",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@heroui/react": "^2.8.7",
+    "@heroui/system": "^2.4.25",
+    "@heroui/theme": "^2.4.25",
+    "@tailwindcss/vite": "^4.1.18",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.2",
+    "framer-motion": "^12.24.7",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "sass": "^1.97.2",
+    "tailwindcss": "^4.1.18",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.0"
+  }
+}
