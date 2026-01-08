@@ -73,6 +73,7 @@ This boilerplate comes pre-configured with:
 │   ├── index.scss        # Global styles with Tailwind & SCSS
 │   ├── hero.ts           # HeroUI plugin configuration
 │   └── util.ts           # Utility functions
+├── public/               # Static resources
 ├── index.html            # HTML template
 ├── vite.config.ts        # Vite configuration
 ├── tsconfig.json         # TypeScript configuration
