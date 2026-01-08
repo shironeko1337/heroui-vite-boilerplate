@@ -3,6 +3,9 @@ import { HeroUIProvider } from "@heroui/system";
 import "./index.css";
 import "./custom.scss";
 
+// URL Prefix if using Github Pages, including a separator at the end.
+// const RESOURCE_URL_PREFIX = `${import.meta.env.BASE_URL}`;
+
 function App() {
   return (
     <HeroUIProvider>
